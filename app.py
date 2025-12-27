@@ -1,6 +1,8 @@
 import streamlit as st
 from preprocess import preprocess_audio
-from decision_engine import decision_logic
+def preprocess_audio(file_path):
+    return "processed"
+
 import random
 
 st.title("SENTRY-AI MVP")
