@@ -1,4 +1,7 @@
 streamlit
+librosa
 numpy
-pandas
-plotly
+matplotlib
+tensorflow-cpu
+soundfile
+scipy
